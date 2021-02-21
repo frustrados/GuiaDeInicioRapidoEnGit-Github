@@ -1,2 +1,2 @@
-Hola, como estas?
-Bien, vos?
+Hello, How are you?
+Fine, and you?
